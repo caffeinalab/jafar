@@ -1,0 +1,25 @@
+{
+  "name": "ti-jafar",
+  "version": "1.0.0",
+  "description": "Use the power of Jasmine in Appcelerator Titanium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "titanium",
+    "ti",
+    "jasmine",
+    "testing",
+    "test",
+    "javascript",
+    "appcelerator",
+    "axway"
+  ],
+  "author": {
+    "name": "Andrea Jonus",
+    "email": "j.jonus.j@gmail.com",
+    "url": "https://github.com/Jei"
+  },
+  "license": "ISC"
+}
